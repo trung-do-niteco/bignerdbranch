@@ -4,7 +4,7 @@ import java.util.Date;
 import java.util.UUID;
 
 /**
- * Created by trung.do on 4/29/2015.
+ * Not me
  */
 public class Crime {
     private UUID mId;
